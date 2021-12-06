@@ -1,0 +1,8 @@
+C:\Users\Василий\Desktop\getH\homwor\1ksat\1ksat\bin\Debug\1ksat.exe.config
+C:\Users\Василий\Desktop\getH\homwor\1ksat\1ksat\bin\Debug\1ksat.exe
+C:\Users\Василий\Desktop\getH\homwor\1ksat\1ksat\bin\Debug\1ksat.pdb
+C:\Users\Василий\Desktop\getH\homwor\1ksat\1ksat\obj\Debug\1ksat.csproj.AssemblyReference.cache
+C:\Users\Василий\Desktop\getH\homwor\1ksat\1ksat\obj\Debug\1ksat.csproj.SuggestedBindingRedirects.cache
+C:\Users\Василий\Desktop\getH\homwor\1ksat\1ksat\obj\Debug\1ksat.csproj.CoreCompileInputs.cache
+C:\Users\Василий\Desktop\getH\homwor\1ksat\1ksat\obj\Debug\1ksat.exe
+C:\Users\Василий\Desktop\getH\homwor\1ksat\1ksat\obj\Debug\1ksat.pdb
